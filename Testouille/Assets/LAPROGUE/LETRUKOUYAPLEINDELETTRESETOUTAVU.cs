@@ -7,15 +7,99 @@ public class LETRUKOUYAPLEINDELETTRESETOUTAVU : MonoBehaviour
     public Vector3 vector;
     public bool reboot;
     public float speedMax;
+
     // Start is called before the first frame update
     void Start()
     {
+
+
+
+
+
+
+
+
 
     }
 
     // Update is called once per frame
     void Update()
     {
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
         if(reboot == true)
         {
             StartCoroutine("KubKiBouj");

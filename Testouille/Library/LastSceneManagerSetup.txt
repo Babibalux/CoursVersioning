@@ -1,9 +1,5 @@
 sceneSetups:
-<<<<<<< HEAD
-- path: Assets/Scenes/NAC_ LD Forest.unity
-=======
 - path: Assets/Scenes/LASCENE TROBI1.unity
->>>>>>> ELYOTE
   isLoaded: 1
   isActive: 1
   isSubScene: 0
