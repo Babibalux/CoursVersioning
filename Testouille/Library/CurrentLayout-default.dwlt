@@ -14,8 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_PixelRect:
     serializedVersion: 2
-    x: 1920
-    y: 43
+    x: 1528
+    y: 51
     width: 1920
     height: 997
   m_ShowMode: 4
@@ -48,7 +48,7 @@ MonoBehaviour:
   m_MinSize: {x: 679, y: 492}
   m_MaxSize: {x: 14002, y: 14042}
   vertical: 0
-  controlID: 119
+  controlID: 100
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -219,7 +219,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 492}
   m_MaxSize: {x: 10001, y: 14042}
   vertical: 1
-  controlID: 54
+  controlID: 35
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -244,7 +244,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 221}
   m_MaxSize: {x: 8003, y: 4021}
   vertical: 0
-  controlID: 55
+  controlID: 36
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -320,8 +320,8 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 1920
-    y: 646
+    x: 1529.6
+    y: 523.2
     width: 1530
     height: 353
   m_ViewDataDictionary: {fileID: 0}
@@ -338,20 +338,26 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets
+    - Assets/Scenes
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets
+  - Assets/Scenes
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\Users\f.courtemanche\Desktop\VersioningTest\CoursVersioning\Testouille
+  m_LastProjectPath: C:\Users\natcr\Desktop\CoursVersioning\Testouille
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
+<<<<<<< HEAD
     m_SelectedIDs: 86330000
     m_LastClickedID: 13190
     m_ExpandedIDs: 000000008633000000ca9a3b
+=======
+    m_SelectedIDs: 88330000
+    m_LastClickedID: 13192
+    m_ExpandedIDs: 000000008433000000ca9a3b
+>>>>>>> ONFOULAMERDE
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -379,7 +385,11 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
+<<<<<<< HEAD
     m_ExpandedIDs: 0000000086330000
+=======
+    m_ExpandedIDs: 0000000084330000
+>>>>>>> ONFOULAMERDE
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -456,8 +466,8 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 3451
-    y: 73
+    x: 3059
+    y: 81
     width: 388
     height: 926
   m_ViewDataDictionary: {fileID: 0}
@@ -494,17 +504,21 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 1920
-    y: 73
+    x: 1529.6
+    y: 64.8
     width: 378
     height: 552
   m_ViewDataDictionary: {fileID: 0}
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
+<<<<<<< HEAD
       m_SelectedIDs: 422c0000
+=======
+      m_SelectedIDs: 92330000
+>>>>>>> ONFOULAMERDE
       m_LastClickedID: 0
-      m_ExpandedIDs: 6afbffff
+      m_ExpandedIDs: 76faffff98faffff6afbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -549,8 +563,8 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 2299
-    y: 73
+    x: 1907
+    y: 81
     width: 1150
     height: 552
   m_ViewDataDictionary: {fileID: 0}
@@ -564,9 +578,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 1.3821735, y: 2.4332411, z: -3.8274055}
+    m_Target: {x: 1.4092512, y: 2.4332414, z: -4.5214057}
     speed: 2
-    m_Value: {x: 1.3821735, y: 2.4332411, z: -3.8274055}
+    m_Value: {x: 1.4092512, y: 2.4332414, z: -4.5214057}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -612,17 +626,21 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.16993593, y: 0.7060164, z: -0.18088457, w: -0.6632819}
+    m_Target: {x: -0.0000000012686951, y: -0.7341393, z: 0.000000008354226, w: 0.6789991}
     speed: 2
+<<<<<<< HEAD
     m_Value: {x: -0.16993593, y: 0.70601636, z: -0.18088457, w: -0.6632819}
+=======
+    m_Value: {x: -0.0061504412, y: -0.7300225, z: -0.0065703737, w: 0.6833639}
+>>>>>>> ONFOULAMERDE
   m_Size:
-    m_Target: 2.9698734
+    m_Target: 4.4532356
     speed: 2
-    m_Value: 2.9698734
+    m_Value: 4.753236
   m_Ortho:
-    m_Target: 0
+    m_Target: 1
     speed: 2
-    m_Value: 0
+    m_Value: 1
   m_CameraSettings:
     m_Speed: 1
     m_SpeedNormalized: 0.5
