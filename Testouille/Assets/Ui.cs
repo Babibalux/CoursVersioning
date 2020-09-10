@@ -1,18 +1,22 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
+using System.Diagnostics;
 using UnityEngine;
 
 public class Ui : MonoBehaviour
 {
-    // Start is called before the first frame update
+    public bool wesh;
+
     void Start()
     {
-        
+        wesh = true;   
     }
 
-    // Update is called once per frame
     void Update()
     {
-        
+        if(wesh)
+        {
+            Debug.Log("NAN");
+        }
     }
 }
